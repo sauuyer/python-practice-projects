@@ -2,7 +2,7 @@
 movies_list = [("The Seventh Seal", "Ingmar Bergman", 1957, 150000)]
 print(movies_list)
 
-#Gather input about movie details from user
+# Gather input about movie details from user
 title = input("Movie title: ")
 director = input("Movie director: ")
 year_released = input("Year released: ")
