@@ -16,7 +16,6 @@ def user_input_number_checker():
     else:
         print("That number is zero")
 
-
 # create a while loop that will prompt the user to continue entering numbers into the checker function
 # until they wish to exit the loop
 while True:
